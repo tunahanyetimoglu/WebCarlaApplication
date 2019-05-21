@@ -1,6 +1,6 @@
 # eCarla Car App
 ##### An Online Retail Management and Custommer Order Processing System
-##### -By Tunahan Pandit https://www.facebook.com/Tunahan.pandit07
+##### -By Tunahan
 
 Follow the documentation and the blackbook here
 http://www.4shared.com/office/AEf2a-PW/Binder2.html
